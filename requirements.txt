@@ -15,7 +15,7 @@ accelerate
 timm
 einops==0.8.0
 paddlepaddle
-paddleocr
+paddleocr==2.7.3
 ruff==0.6.7
 pre-commit==3.8.0
 pytest==8.3.3
@@ -29,4 +29,5 @@ google-auth<3,>=2
 screeninfo
 uiautomation
 dashscope
+
 groq
